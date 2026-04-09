@@ -1,7 +1,7 @@
 {
-  "name": "vanilla-spa-architecture",
-  "version": "1.0.0",
-  "description": "Guides AI agents to build and maintain React SPA + HTTP API codebases instead of Next.js monoliths. Optimized for non-developer users who rely on AI agents to write and maintain their code.",
+  "name": "david-the-developer",
+  "version": "1.1.0",
+  "description": "A collection of AI-optimized skills by Christian Pedersen (@dkmaker). Includes: vanilla-spa-architecture (React SPA + HTTP API patterns instead of Next.js) and customer-benefit-communication (transform technical comms into clear customer value). Designed for codebases and businesses maintained by AI agents.",
   "author": {
     "name": "Christian Pedersen (@dkmaker)",
     "email": "christian@dkmaker.xyz",
@@ -18,7 +18,13 @@
     "ai-optimized",
     "architecture",
     "no-nextjs",
-    "internal-dashboard"
+    "internal-dashboard",
+    "communication",
+    "customer",
+    "msp"
   ],
-  "skills": "./skills/"
+  "skills": [
+    "./skills/vanilla-spa-architecture/SKILL.md",
+    "./skills/customer-benefit-communication/SKILL.md"
+  ]
 }
