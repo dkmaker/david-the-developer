@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "AI-optimized plugins by Christian Pedersen (@dkmaker) — architecture patterns and best practices designed for codebases maintained by AI agents. Perfect for non-developers who rely on Claude to write and evolve their code.",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "plugins": [
     {
@@ -31,6 +31,29 @@
         "no-nextjs"
       ],
       "category": "architecture"
+    },
+    {
+      "name": "customer-benefit-communication",
+      "source": "./",
+      "version": "1.0.0",
+      "description": "Transform technical, feature-focused customer communication into benefit-driven messages. For IT providers, MSPs, SaaS companies, and any business communicating technical work to non-technical customers. Rewrites emails, proposals, reports, and support replies so customers clearly understand the value they receive.",
+      "author": {
+        "name": "Christian Pedersen (@dkmaker)",
+        "email": "christian@dkmaker.xyz"
+      },
+      "homepage": "https://github.com/dkmaker/david-the-developer",
+      "repository": "https://github.com/dkmaker/david-the-developer",
+      "license": "MIT",
+      "keywords": [
+        "communication",
+        "customer",
+        "benefit",
+        "copywriting",
+        "it-provider",
+        "msp",
+        "ai-optimized"
+      ],
+      "category": "communication"
     }
   ]
 }
