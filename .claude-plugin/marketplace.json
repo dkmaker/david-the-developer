@@ -10,10 +10,10 @@
   },
   "plugins": [
     {
-      "name": "vanilla-spa-architecture",
+      "name": "david-the-developer",
       "source": "./",
-      "version": "1.0.0",
-      "description": "Switch from Next.js to a clean React SPA + HTTP API architecture. Gives the AI agent precise DO/DON'T guidance so it produces simple, predictable, AI-maintainable code — no SSR magic, no framework conventions to remember.",
+      "version": "1.1.0",
+      "description": "A collection of AI-optimized skills by Christian Pedersen (@dkmaker). Includes: vanilla-spa-architecture (React SPA + HTTP API patterns instead of Next.js) and customer-benefit-communication (transform technical comms into clear customer value). Designed for codebases and businesses maintained by AI agents.",
       "author": {
         "name": "Christian Pedersen (@dkmaker)",
         "email": "christian@dkmaker.xyz"
@@ -24,36 +24,14 @@
       "keywords": [
         "react",
         "spa",
-        "vite",
-        "azure-functions",
-        "ai-optimized",
         "architecture",
-        "no-nextjs"
-      ],
-      "category": "architecture"
-    },
-    {
-      "name": "customer-benefit-communication",
-      "source": "./",
-      "version": "1.0.0",
-      "description": "Transform technical, feature-focused customer communication into benefit-driven messages. For IT providers, MSPs, SaaS companies, and any business communicating technical work to non-technical customers. Rewrites emails, proposals, reports, and support replies so customers clearly understand the value they receive.",
-      "author": {
-        "name": "Christian Pedersen (@dkmaker)",
-        "email": "christian@dkmaker.xyz"
-      },
-      "homepage": "https://github.com/dkmaker/david-the-developer",
-      "repository": "https://github.com/dkmaker/david-the-developer",
-      "license": "MIT",
-      "keywords": [
         "communication",
         "customer",
-        "benefit",
-        "copywriting",
-        "it-provider",
-        "msp",
-        "ai-optimized"
+        "ai-optimized",
+        "no-nextjs",
+        "msp"
       ],
-      "category": "communication"
+      "category": "productivity"
     }
   ]
 }
