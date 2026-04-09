@@ -1,0 +1,36 @@
+{
+  "name": "david-the-developer",
+  "owner": {
+    "name": "Christian Pedersen",
+    "email": "christian@dkmaker.xyz"
+  },
+  "metadata": {
+    "description": "AI-optimized plugins by Christian Pedersen (@dkmaker) — architecture patterns and best practices designed for codebases maintained by AI agents. Perfect for non-developers who rely on Claude to write and evolve their code.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "vanilla-spa-architecture",
+      "source": "./",
+      "version": "1.0.0",
+      "description": "Switch from Next.js to a clean React SPA + HTTP API architecture. Gives the AI agent precise DO/DON'T guidance so it produces simple, predictable, AI-maintainable code — no SSR magic, no framework conventions to remember.",
+      "author": {
+        "name": "Christian Pedersen (@dkmaker)",
+        "email": "christian@dkmaker.xyz"
+      },
+      "homepage": "https://github.com/dkmaker/david-the-developer",
+      "repository": "https://github.com/dkmaker/david-the-developer",
+      "license": "MIT",
+      "keywords": [
+        "react",
+        "spa",
+        "vite",
+        "azure-functions",
+        "ai-optimized",
+        "architecture",
+        "no-nextjs"
+      ],
+      "category": "architecture"
+    }
+  ]
+}
