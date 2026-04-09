@@ -1,0 +1,22 @@
+{
+  "name": "customer-benefit-communication",
+  "version": "1.0.0",
+  "description": "Transform technical, feature-focused customer communication into benefit-driven messages. For IT providers, MSPs, SaaS companies, and any business communicating technical work to non-technical customers.",
+  "author": {
+    "name": "Christian Pedersen (@dkmaker)",
+    "email": "christian@dkmaker.xyz",
+    "url": "https://github.com/dkmaker"
+  },
+  "homepage": "https://github.com/dkmaker/david-the-developer",
+  "repository": "https://github.com/dkmaker/david-the-developer",
+  "license": "MIT",
+  "keywords": [
+    "communication",
+    "customer",
+    "benefit",
+    "copywriting",
+    "it-provider",
+    "msp",
+    "ai-optimized"
+  ]
+}

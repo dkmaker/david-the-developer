@@ -1,0 +1,23 @@
+{
+  "name": "vanilla-spa-architecture",
+  "version": "1.0.0",
+  "description": "Guides AI agents to build and maintain React SPA + HTTP API codebases instead of Next.js monoliths. Optimized for non-developer users who rely on AI agents to write and maintain their code.",
+  "author": {
+    "name": "Christian Pedersen (@dkmaker)",
+    "email": "christian@dkmaker.xyz",
+    "url": "https://github.com/dkmaker"
+  },
+  "homepage": "https://github.com/dkmaker/david-the-developer",
+  "repository": "https://github.com/dkmaker/david-the-developer",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "spa",
+    "vite",
+    "azure-functions",
+    "ai-optimized",
+    "architecture",
+    "no-nextjs",
+    "internal-dashboard"
+  ]
+}
